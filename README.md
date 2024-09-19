@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Patricklalaina&color=blueviolet&style=for-the-badge&label=VISITOR(S)&abbreviated=true)
+
+# Nombre de visiteur :
 ![Visitor Count](https://profile-counter.glitch.me/{Patricklalaina}/count.svg)
