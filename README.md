@@ -1,5 +1,4 @@
-## BONJOUR ! Hi ! 👋
-### Bienvenu sur mon profil git
+### Bienvenu sur mon profil git ✨
 
 
 <!--
@@ -16,6 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Nombre de visiteur :
-![Visitor Count](https://profile-counter.glitch.me/{Patricklalaina}/count.svg)
+ Vous êtes le ![Visitor Count](https://profile-counter.glitch.me/{Patricklalaina}/count.svg) ième visiteurs 👀 🫶
