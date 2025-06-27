@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--div id="stats">
   <h2>GitHub Stats</h2>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=radical" alt="Pendragon46's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Patricklalaina&show_icons=true&theme=radical" alt="Pendragon46's GitHub stats" />
   </div>
 </div>
 
@@ -47,5 +47,5 @@ Here are some ideas to get you started:
   
 | GitHub Stats | Top Languages |
 |--------------|---------------|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pendragon46&show_icons=true&theme=tokyonight)](https://github.com/Pendragon46) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pendragon46&layout=compact&theme=tokyonight)](https://github.com/Pendragon46) |
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patricklalaina&show_icons=true&theme=tokyonight)](https://github.com/Patricklalaina) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patricklalaina&layout=compact&theme=tokyonight)](https://github.com/Patricklalaina) |
 </div>
