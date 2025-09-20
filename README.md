@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patricklalaina&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklalaina&show_icons=true&locale=en&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklalaina&show_icons=true&theme=transparent" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklalaina&show_icons=true&locale=en&layout=compact&theme=transparent" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricklalaina&theme=radical" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricklalaina&theme=transparent" alt="streak stats" />
 </p>
 
