@@ -1,3 +1,11 @@
+# 👋 Bonjour, je suis Patrick Randriamanambola
+
+🌍 **FullStack Developer | Game Developer | Data Enthusiast**  
+📍 Basé à Madagascar 
+
+---
+
+
 ## 🛠️ Languages & Tools
 
 **🌐 Frontend :**  
@@ -32,3 +40,15 @@
 <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" height="40"/> 
 <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="40"/> 
 <img src="https://skillicons.dev/icons?i=tensorflow" />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patricklalaina&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patricklalaina&theme=radical" alt="streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patricklalaina&show_icons=true&locale=en&layout=compact&theme=radical" alt="top langs" />
+</p>
+
